@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+emcee
+scipy
+pyextremes
+lmoments
+
+# optional
+tqdm
+jupyterlab
